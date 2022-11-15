@@ -1,0 +1,21 @@
+.form-container{
+   max-width: 80%;
+   border: solid 1px #000;
+   padding: 15px;
+   margin: 50px auto;
+   
+}
+.table-container{
+   height: 500px;
+   overflow: auto;
+}
+
+.nav{
+   display: flex;
+   align-items: center;
+}
+.nav-logo{
+   width: 50px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+}
